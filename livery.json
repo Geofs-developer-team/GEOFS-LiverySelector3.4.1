@@ -2,11 +2,11 @@
                     "name": "Indigo",
                     "texture": [
                         {
-  "normalMap": "https://Geofs-developer-team/GEOFS-LiverySelector3.4.1/models/aircraft/premium/ATR-72_600/normal.jpg",
-"specularMap": "https://Geofs-developer-team/GEOFS-LiverySelector3.4.1/models/aircraft/premium/ATR-72_600/specular.jpg"
+ "https://Geofs.com/models/aircraft/premium/ATR-72_600/normal.jpg",
+ "https://Geofs.com/models/aircraft/premium/ATR-72_600/specular.jpg"
 }
-                        "https://raw.githubusercontent.com/Geofs-developer-team/GEOFS-LiverySelector3.4.1/main/liveries/ATR_72-600/IndiGo%20_ATR_3_1"
+ "https://raw.githubusercontent.com/Geofs-developer-team/GEOFS-LiverySelector3.4.1/main/liveries/ATR_72-600/IndiGo%20_ATR_3_1"
                     ],
-                    " credits": "Nichy"
+                    " credits": "Geofs-developer-team"
 
     
