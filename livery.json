@@ -35,3 +35,16 @@
                     " credits": "Geofs-developer-team"
 
     
+
+ {
+                    "name": "IndiGo",
+                    "credits": "Geofs-developer-team",
+                    "texture": [
+                        "https://raw.githubusercontent.com/Geofs-developer-team/GEOFS-LiverySelector3.4.1/main/liveries/ATR_72-600/IndiGo%20_ATR_3_1",
+                        "https://raw.githubusercontent.com/Geofs-developer-team/GEOFS-LiverySelector3.4.1/main/liveries/Airbus_A320neo/IndiGo%20_Airbus_A320neo",
+                        "https://raw.githubusercontent.com/Geofs-developer-team/GEOFS-LiverySelector3.4.1/main/liveries/Airbus_A321neo/IndiGo%20_Airbus_A321neo"
+                    ] 
+    
+                }
+
+    
